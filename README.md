@@ -1,5 +1,9 @@
 # SystemVerilog Verification — 4-bit Adder
 
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Queues%20%7C%20Linked%20Lists%20%7C%20Trees-blueviolet?style=for-the-badge)
+![Digital Design](https://img.shields.io/badge/Digital%20Design-RTL%20%7C%20FSM%20%7C%20Logic%20Design-1BA0D7?style=for-the-badge)
+![Verification](https://img.shields.io/badge/Verification-Testbench%20%7C%20Scoreboard%20%7C%20Randomization-success?style=for-the-badge)
+
 ---
 
 ## Overview
